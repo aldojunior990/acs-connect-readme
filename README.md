@@ -17,7 +17,7 @@ Este aplicativo é uma parte essencial do meu Trabalho de Conclusão de Curso (T
 
 # Tela inicial
 
-<div style="text-align: center;">
+<div style="display: flex; align-items: center; justify-content: center; width: 100%;">
     <img alt="Tela inicial" height="500" src=".github%2Ftela_inicial.jpg" width="300"/>
 </div>
 
